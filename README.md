@@ -19,21 +19,21 @@ https://reqres.in/
 
 ## Requerimientos
 1. Obtenga toda la información de los usuarios retornada por la API, guárdela en una
-variable llamada users_data e imprímala en pantalla.
+variable llamada ```python users_data ``` e imprímala en pantalla.
 (3 Puntos)
 
 
 2. Cree un usuario que tenga de nombre Ignacio y de trabajo Profesor. Guarde el
-diccionario de respuesta en una variable llamada created_user e imprímala en
+diccionario de respuesta en una variable llamada ```python created_user ``` e imprímala en
 pantalla.
 (2 Puntos)
 
 
-3. Actualice un usuario llamado morpheus para que tenga un campo llamado residence
-igual a zion. Guarde el diccionario de respuesta en una variable llamada
-updated_user e imprímala en pantalla.
+3. Actualice un usuario llamado morpheus para que tenga un campo llamado ```python residence```
+igual a ```python zion ```. Guarde el diccionario de respuesta en una variable llamada
+```python updated_user ``` e imprímala en pantalla.
 (3 Puntos)
 
 
-4. Elimine un usuario llamado Tracey. Imprima el código de respuesta en pantalla.
+4. Elimine un usuario llamado ```python Tracey ```. Imprima el código de respuesta en pantalla.
 (2 Puntos)
