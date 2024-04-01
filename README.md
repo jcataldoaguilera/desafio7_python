@@ -29,7 +29,7 @@ pantalla.
 (2 Puntos)
 
 
-3. Actualice un usuario llamado morpheus para que tenga un campo llamado ``` residence```
+3. Actualice un usuario llamado morpheus para que tenga un campo llamado ``` residence ```
 igual a ``` zion ```. Guarde el diccionario de respuesta en una variable llamada
 ``` updated_user ``` e imprímala en pantalla.
 (3 Puntos)
